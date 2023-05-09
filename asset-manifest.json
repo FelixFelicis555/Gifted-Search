@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gifted-Search/static/css/main.257e0a30.css",
+    "main.js": "/Gifted-Search/static/js/main.1b747018.js",
+    "index.html": "/Gifted-Search/index.html",
+    "main.257e0a30.css.map": "/Gifted-Search/static/css/main.257e0a30.css.map",
+    "main.1b747018.js.map": "/Gifted-Search/static/js/main.1b747018.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.257e0a30.css",
+    "static/js/main.1b747018.js"
+  ]
+}
